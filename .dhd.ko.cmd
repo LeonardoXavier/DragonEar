@@ -1,0 +1,1 @@
+cmd_/home/necrosan/root/src/modules/bcm4329/dhd.ko := /usr/local/arm/4.3.1-eabi-armv6/usr/bin/arm-linux-ld -EL -r   -o /home/necrosan/root/src/modules/bcm4329/dhd.ko /home/necrosan/root/src/modules/bcm4329/dhd.o /home/necrosan/root/src/modules/bcm4329/dhd.mod.o
